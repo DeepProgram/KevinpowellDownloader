@@ -29,7 +29,7 @@ The motivation behind creating and maintaining **Kevinpowell Course Downloader**
 
 To run this project, you will need to add the following environment variables to your **.env** file
 
-`COOKIE="__podia_session=%1655Fdsf4fsdfsdf489sdf4sd4f9sd4f98sd4f4sdfsdgfosdfgspofdjpjjspdjfpjsfpjf"`
+`COOKIE="__podia_session=YOUR_PODIA_SESSION_VALUE"`
 
 **Get this __podia_session Cookie Value**
 - Install [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) chrome extension
