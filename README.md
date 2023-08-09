@@ -14,7 +14,7 @@ This is an CLI application to automate the download [kevinpowell.co](https://cou
 The motivation behind creating and maintaining **Kevinpowell Course Downloader** is that a lot of people can not watch videos online whenever the want. This also reduce the bandwidth usage.
 ## Requirements
 + [FFMPEG](https://www.ffmpeg.org/)
-    - **Arch Linux / Majanro**
+    - **Arch Linux / Manjaro**
         ```bash
         sudo pacman -S ffmpeg
         ```
